@@ -1,0 +1,6 @@
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\bin\Debug\CSProject.exe.config
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\obj\Debug\CSProject.csprojResolveAssemblyReference.cache
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+c:\users\furion\documents\visual studio 2015\Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
